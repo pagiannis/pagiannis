@@ -1,13 +1,12 @@
-# Hi, I'm Giannis 👋
+## Full-Stack Developer focused on integrating AI into real products.
 
-Full-Stack Developer focused on integrating AI into real products.
 Currently a developer at Deloitte Greece and a final-year Engineering student at the International Hellenic University.
 
 ### Tech I work with
-**Backend:** Node.js · C# / .NET
+**Backend:** Node.js · C# · .NET / ASP.NET Core 
 **Frontend:** React · TS · Tailwind
 **AI:** LLM integration · prompt engineering
-**Tools:** Claude · Git · GitHub · Vercel · Docker · Azure DevOps · Jira
+**Tools:** Claude · Git · GitHub · PostgreSQL · Docker · Azure DevOps · Jira · Vercel
 
 ### Featured projects
 - **Leadbot**: An AI product that answers a business's inbound leads across social and messaging channels. An LLM pipeline with retrieval and evals drafts replies from CRM-synced listings for a person to approve, gathers details, scores leads and schedules follow-ups.
