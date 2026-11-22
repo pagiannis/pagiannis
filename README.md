@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Giannis 👋
 
-<!--
-**pagiannis/pagiannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on integrating AI into real products.
+Currently a developer at Deloitte Greece and a final-year Engineering student at the International Hellenic University.
 
-Here are some ideas to get you started:
+### 🛠 Tech I work with
+**Backend:** Node.js · C# / .NET · PHP
+**Frontend:** React · Astro · Tailwind
+**AI:** LLM integration · prompt engineering
+**Tools:** Git · Vercel · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured projects
+- **[Leadbot](https://github.com/USERNAME/leadbot)**: one line on what it does and the stack
+- **[Onitama API](https://github.com/USERNAME/onitama)**: REST API in PHP for the Onitama board game
+- **[Portfolio site](https://github.com/USERNAME/portfolio)**: Astro + Tailwind, deployed on Vercel
+
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/...) · your@email.com
