@@ -10,9 +10,9 @@ Currently a developer at Deloitte Greece and a final-year Engineering student at
 **Tools:** Git · GitHub · Vercel · Docker · Azure devops · Jira
 
 ### 🚀 Featured projects
-- **[Leadbot](https://github.com/USERNAME/leadbot)**: one line on what it does and the stack
-- **[Onitama API](https://github.com/USERNAME/onitama)**: REST API in PHP for the Onitama board game
-- **[Portfolio site](https://github.com/USERNAME/portfolio)**: Astro + Tailwind, deployed on Vercel
+- **[Leadbot](https://github.com/pagiannis/leadbot)**: one line on what it does and the stack
+- **[Onitama API](https://github.com/pagiannis/onitama)**: REST API in PHP for the Onitama board game
+- **[Portfolio site](https://github.com/pagiannis/portfolio)**: Astro + Tailwind, deployed on Vercel
 
 ### 📫 Contact
 [LinkedIn](https://linkedin.com/in/...) · your@email.com
