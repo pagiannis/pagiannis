@@ -7,7 +7,7 @@ Currently a developer at Deloitte Greece and a final-year Engineering student at
 **Backend:** Node.js · C# / .NET
 **Frontend:** React · TS · Tailwind
 **AI:** LLM integration · prompt engineering
-**Tools:** Git · GitHub · Vercel · Docker · Azure devops · Jira
+**Tools:** Claude · Git · GitHub · Vercel · Docker · Azure DevOps · Jira
 
 ### 🚀 Featured projects
 - **[Leadbot](https://github.com/pagiannis/leadbot)**: one line on what it does and the stack
