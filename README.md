@@ -9,10 +9,8 @@ Currently a developer at Deloitte Greece and a final-year Engineering student at
 **AI:** LLM integration · prompt engineering
 **Tools:** Claude · Git · GitHub · Vercel · Docker · Azure DevOps · Jira
 
-### 🚀 Featured projects
-- **[Leadbot](https://github.com/pagiannis/leadbot)**: one line on what it does and the stack
-- **[Onitama API](https://github.com/pagiannis/onitama)**: REST API in PHP for the Onitama board game
-- **[Portfolio site](https://github.com/pagiannis/portfolio)**: Astro + Tailwind, deployed on Vercel
-
-### 📫 Contact
+### Featured projects
+- **Leadbot**: An AI product that answers a business's inbound leads across social and messaging channels. An LLM pipeline with retrieval and evals drafts replies from CRM-synced listings for a person to approve, gathers details, scores leads and schedules follow-ups.
+  
+### Contact
 [LinkedIn](https://linkedin.com/in/...) · your@email.com
