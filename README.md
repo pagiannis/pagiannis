@@ -10,7 +10,7 @@ Based in Thessaloniki, Greece.
 **Tools:** Claude · Git · GitHub · PostgreSQL · Docker · Azure DevOps · Jira · Vercel
 
 ### Featured projects
-- **Leadbot**: An AI product that answers a business's inbound leads across social and messaging channels. An LLM pipeline with retrieval and evals drafts replies from CRM-synced listings for a person to approve, gathers details, scores leads and schedules follow-ups.
+**Leadbot**: An AI product that answers a business's inbound leads across social and messaging channels. An LLM pipeline with retrieval and evals drafts replies from CRM-synced listings for a person to approve, gathers details, scores leads and schedules follow-ups.
   
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/pagiannis/) · pagiannis4@gmail.com · [pagiannis.com](https://pagiannis.com)
